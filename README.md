@@ -1,6 +1,6 @@
 # npmdoc-sync-exec
 
-#### api documentation for  [sync-exec (v0.6.2)](https://github.com/gvarsanyi/sync-exec)  [![npm package](https://img.shields.io/npm/v/npmdoc-sync-exec.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sync-exec) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sync-exec.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sync-exec)
+#### basic api documentation for  [sync-exec (v0.6.2)](https://github.com/gvarsanyi/sync-exec)  [![npm package](https://img.shields.io/npm/v/npmdoc-sync-exec.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sync-exec) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sync-exec.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sync-exec)
 
 #### Synchronous exec with status code support. Requires no external dependencies, no need for node-gyp compilations etc.
 
@@ -64,7 +64,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "0.6.2"
+    "version": "0.6.2",
+    "bin": {}
 }
 ```
 
